@@ -1,0 +1,8 @@
+{
+  "https://crates.io": {
+    "classification": "browser-verified",
+    "checked_on": "2026-11-02",
+    "evidence_url": "https://crates.io/",
+    "note": "The browser retrieval returned the Rust Package Registry page and its JavaScript notice. The command-line client returned 404 with the checker user agent and 403 with curl's default user agent. Retain the original official URL; this is a client-dependent response."
+  }
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "course-shell",
+    "overview": "The shell connects small programs through arguments, streams, and exit status. This lecture starts with paths and command discovery, then combines text tools into pipelines. It ends with Bash control flow and exercises that turn commands into reusable scripts. Read each example as a data flow: identify the input, the operation, and the output before you run it.",
+    "objectives": [
+      "Navigate with absolute and relative paths, and explain the current working directory.",
+      "Use documentation to inspect command options and locate programs.",
+      "Combine grep, sed, awk, sort, and uniq through pipes and redirections.",
+      "Read Bash variables, conditions, loops, and background jobs."
+    ],
+    "reading_notes": [
+      "Console examples include a prompt and sample output. Enter only the command after the prompt. The displayed date is an example.",
+      "Bash can run builtins such as echo before it searches PATH. Use type or command -V to inspect command resolution; which alone can miss builtins and aliases.",
+      "The for-loop fragment is incomplete by design. Add its body and done before use. The stress example also needs the stress program and a suitable Rust project.",
+      "The sed -i form shown uses GNU syntax. Check your local sed manual before an in-place edit on another system."
+    ],
+    "index_terms": ["Bash", "working directory", "PATH", "quoting", "pipes", "redirection", "grep", "sed", "awk", "find", "shell scripts"]
+  },
+  {
+    "slug": "command-line-environment",
+    "overview": "Command-line tools share conventions that make them work together. This lecture explains arguments, file streams, environment variables, exit status, and signals. It then applies those concepts to SSH, tmux, shell configuration, and terminal tools. Track which process owns each operation. In an SSH pipeline, a change in quoting can move work between the local computer and the remote computer.",
+    "objectives": [
+      "Distinguish shell expansion from the arguments that a program receives.",
+      "Redirect standard input, standard output, and standard error separately.",
+      "Use exit status, signals, and job control to manage processes.",
+      "Configure remote connections and keep work in a tmux session.",
+      "Manage shell aliases and dotfiles with version control."
+    ],
+    "reading_notes": [
+      "Quote argument expansions such as \"$1\" and \"$@\" when each value must remain one argument. The opening script is a teaching example: if $DEBUG executes its value as a command.",
+      "A shell script normally returns the status of its last command. An explicit exit selects another status. A nonzero grep status can mean no match or an error.",
+      "The ls-based deletion loop does not handle all filenames. Study expansion with harmless files before using a deletion command.",
+      "Terminal key sequences describe separate key presses. For tmux, press and release Ctrl-b, then press the next key."
+    ],
+    "index_terms": ["arguments", "globbing", "stdin", "stdout", "stderr", "environment variables", "exit status", "signals", "job control", "SSH", "tmux", "dotfiles", "aliases"]
+  },
+  {
+    "slug": "development-environment",
+    "overview": "A development environment supports reading, navigation, edits, and checks. This lecture combines three ideas: Vim treats editing as a small language; language servers connect code meaning to editor features; AI tools propose code through completion, inline edits, and agents. Start with a small working setup. Add features when you can explain how they improve your normal work.",
+    "objectives": [
+      "Change Vim modes and combine motions, operators, counts, and text objects.",
+      "Use code navigation, documentation, formatting, and type information in an editor.",
+      "Point the language server at the project environment and its dependencies.",
+      "Distinguish AI completion from inline edits and agent work.",
+      "Evaluate extensions for remote work, containers, and collaborative editing."
+    ],
+    "reading_notes": [
+      "The Fizz Buzz program is deliberately broken. Preserve it while you follow the editing exercise. Key sequences assume the stated file layout and Normal mode.",
+      "AI completion examples show separate stages. Some blocks are function bodies or unfinished definitions, so they are not independent runnable programs.",
+      "The link-extraction expression demonstrates prompting. It does not parse every Markdown link form, including reference-style links used in this lecture.",
+      "The requests example omits a timeout and HTTP error check. Use a Markdown parser and explicit network error handling for a maintained downloader."
+    ],
+    "index_terms": ["development environments", "Vim", "modal editing", "motions", "text objects", "language servers", "code navigation", "autocomplete", "inline chat", "IDE extensions", "development containers"]
+  }
+]

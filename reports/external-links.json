@@ -1,0 +1,1667 @@
+{
+  "checked_at": "2026-11-02T20:33:18.622925+00:00",
+  "results": [
+    {
+      "url": "http://archive.ubuntu.com/ubuntu/pool/main/",
+      "status": 200,
+      "final_url": "http://archive.ubuntu.com/ubuntu/pool/main/",
+      "note": ""
+    },
+    {
+      "url": "http://josejg.com/",
+      "status": 200,
+      "final_url": "https://josejg.com/",
+      "note": ""
+    },
+    {
+      "url": "http://vimcasts.org/",
+      "status": 200,
+      "final_url": "http://vimcasts.org/",
+      "note": ""
+    },
+    {
+      "url": "http://www.gnuplot.info/",
+      "status": 200,
+      "final_url": "http://www.gnuplot.info/",
+      "note": ""
+    },
+    {
+      "url": "https://about.gitlab.com/",
+      "status": 200,
+      "final_url": "https://about.gitlab.com/",
+      "note": ""
+    },
+    {
+      "url": "https://adventofcode.com/",
+      "status": 200,
+      "final_url": "https://adventofcode.com/",
+      "note": ""
+    },
+    {
+      "url": "https://agents.md/",
+      "status": 200,
+      "final_url": "https://agents.md/",
+      "note": ""
+    },
+    {
+      "url": "https://ai.pydantic.dev/llms.txt",
+      "status": 200,
+      "final_url": "https://pydantic.dev/docs/ai/llms.txt",
+      "note": ""
+    },
+    {
+      "url": "https://anish.io/",
+      "status": 200,
+      "final_url": "https://anish.io/",
+      "note": ""
+    },
+    {
+      "url": "https://apify.com/llms.txt",
+      "status": 200,
+      "final_url": "https://apify.com/llms.txt",
+      "note": ""
+    },
+    {
+      "url": "https://app.codecov.io",
+      "status": 200,
+      "final_url": "https://app.codecov.io",
+      "note": ""
+    },
+    {
+      "url": "https://bazel.build/",
+      "status": 200,
+      "final_url": "https://bazel.build/",
+      "note": ""
+    },
+    {
+      "url": "https://bitbucket.org/",
+      "status": 200,
+      "final_url": "https://bitbucket.org/",
+      "note": ""
+    },
+    {
+      "url": "https://brew.sh/",
+      "status": 200,
+      "final_url": "https://brew.sh/",
+      "note": ""
+    },
+    {
+      "url": "https://choosealicense.com/",
+      "status": 200,
+      "final_url": "https://choosealicense.com/",
+      "note": ""
+    },
+    {
+      "url": "https://chris.beams.io/posts/git-commit/",
+      "status": 200,
+      "final_url": "https://chris.beams.io/git-commit",
+      "note": ""
+    },
+    {
+      "url": "https://cli.github.com/",
+      "status": 200,
+      "final_url": "https://cli.github.com/",
+      "note": ""
+    },
+    {
+      "url": "https://code.claude.com/docs/en/devcontainer",
+      "status": 200,
+      "final_url": "https://code.claude.com/docs/en/devcontainer",
+      "note": ""
+    },
+    {
+      "url": "https://code.claude.com/docs/en/interactive-mode",
+      "status": 200,
+      "final_url": "https://code.claude.com/docs/en/interactive-mode",
+      "note": ""
+    },
+    {
+      "url": "https://code.claude.com/docs/en/skills",
+      "status": 200,
+      "final_url": "https://code.claude.com/docs/en/skills",
+      "note": ""
+    },
+    {
+      "url": "https://code.claude.com/docs/en/sub-agents",
+      "status": 200,
+      "final_url": "https://code.claude.com/docs/en/sub-agents",
+      "note": ""
+    },
+    {
+      "url": "https://code.visualstudio.com/",
+      "status": 200,
+      "final_url": "https://code.visualstudio.com/",
+      "note": ""
+    },
+    {
+      "url": "https://code.visualstudio.com/docs/devcontainers/containers",
+      "status": 200,
+      "final_url": "https://code.visualstudio.com/docs/devcontainers/containers",
+      "note": ""
+    },
+    {
+      "url": "https://code.visualstudio.com/docs/python/environments",
+      "status": 200,
+      "final_url": "https://code.visualstudio.com/docs/python/environments",
+      "note": ""
+    },
+    {
+      "url": "https://command-not-found.com",
+      "status": 200,
+      "final_url": "https://linktr.ee/lach.dev",
+      "note": ""
+    },
+    {
+      "url": "https://containers.dev/",
+      "status": 200,
+      "final_url": "https://containers.dev/",
+      "note": ""
+    },
+    {
+      "url": "https://crates.io",
+      "status": 404,
+      "final_url": "https://crates.io",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://cursor.com/",
+      "status": 200,
+      "final_url": "https://cursor.com/",
+      "note": ""
+    },
+    {
+      "url": "https://cursor.com/llms.txt",
+      "status": 200,
+      "final_url": "https://cursor.com/llms.txt",
+      "note": ""
+    },
+    {
+      "url": "https://developers.google.com/web/tools/chrome-devtools/rendering-tools",
+      "status": 200,
+      "final_url": "https://developer.chrome.com/docs/devtools/",
+      "note": ""
+    },
+    {
+      "url": "https://developers.openai.com/codex/custom-prompts",
+      "status": 200,
+      "final_url": "https://learn.chatgpt.com/docs/custom-prompts",
+      "note": ""
+    },
+    {
+      "url": "https://developers.openai.com/codex/skills/",
+      "status": 200,
+      "final_url": "https://learn.chatgpt.com/docs/build-skills",
+      "note": ""
+    },
+    {
+      "url": "https://docs.anthropic.com/en/docs/claude-code",
+      "status": 200,
+      "final_url": "https://code.claude.com/docs/en/overview",
+      "note": ""
+    },
+    {
+      "url": "https://docs.astral.sh/ruff/",
+      "status": 200,
+      "final_url": "https://docs.astral.sh/ruff/",
+      "note": ""
+    },
+    {
+      "url": "https://docs.astral.sh/ruff/rules/collapsible-if/",
+      "status": 200,
+      "final_url": "https://docs.astral.sh/ruff/rules/collapsible-if/",
+      "note": ""
+    },
+    {
+      "url": "https://docs.astral.sh/uv/",
+      "status": 200,
+      "final_url": "https://docs.astral.sh/uv/",
+      "note": ""
+    },
+    {
+      "url": "https://docs.docker.com/ai/sandboxes/agents/claude-code/",
+      "status": 200,
+      "final_url": "https://docs.docker.com/ai/sandboxes/agents/claude-code/",
+      "note": ""
+    },
+    {
+      "url": "https://docs.docker.com/compose/",
+      "status": 200,
+      "final_url": "https://docs.docker.com/compose/",
+      "note": ""
+    },
+    {
+      "url": "https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge",
+      "note": ""
+    },
+    {
+      "url": "https://docs.github.com/en/pages/quickstart",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pages/quickstart",
+      "note": ""
+    },
+    {
+      "url": "https://docs.microsoft.com/en-us/windows/wsl/",
+      "status": 200,
+      "final_url": "https://learn.microsoft.com/en-us/windows/wsl/",
+      "note": ""
+    },
+    {
+      "url": "https://docs.python.org/3/library/profile.html",
+      "status": 200,
+      "final_url": "https://docs.python.org/3/library/profile.html",
+      "note": ""
+    },
+    {
+      "url": "https://docs.python.org/3/library/re.html",
+      "status": 200,
+      "final_url": "https://docs.python.org/3/library/re.html",
+      "note": ""
+    },
+    {
+      "url": "https://dotfiles.github.io/",
+      "status": 200,
+      "final_url": "https://dotfiles.github.io/",
+      "note": ""
+    },
+    {
+      "url": "https://dotfiles.github.io/utilities/",
+      "status": 200,
+      "final_url": "https://dotfiles.github.io/utilities/",
+      "note": ""
+    },
+    {
+      "url": "https://eagain.net/articles/git-for-computer-scientists/",
+      "status": 200,
+      "final_url": "https://eagain.net/articles/git-for-computer-scientists/",
+      "note": "HTTP Error 405: Method Not Allowed"
+    },
+    {
+      "url": "https://ebpf.io/",
+      "status": 200,
+      "final_url": "https://ebpf.io/",
+      "note": ""
+    },
+    {
+      "url": "https://editorconfig.org/",
+      "status": 200,
+      "final_url": "https://editorconfig.org/",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Code_golf",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Code_golf",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Fizz_buzz",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Fizz_buzz",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Large_language_model",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Large_language_model",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Man_page",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Man_page",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Parsing_expression_grammar",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Parsing_expression_grammar",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Regular_language",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Regular_language",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/SHA-1",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/SHA-1",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Short-circuit_evaluation",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Short-circuit_evaluation",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+      "note": ""
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/System_call",
+      "status": 200,
+      "final_url": "https://en.wikipedia.org/wiki/System_call",
+      "note": ""
+    },
+    {
+      "url": "https://eza.rocks/",
+      "status": 200,
+      "final_url": "https://eza.rocks/",
+      "note": ""
+    },
+    {
+      "url": "https://fishshell.com/",
+      "status": 200,
+      "final_url": "https://fishshell.com/",
+      "note": ""
+    },
+    {
+      "url": "https://ggplot2.tidyverse.org/",
+      "status": 200,
+      "final_url": "https://ggplot2.tidyverse.org/",
+      "note": ""
+    },
+    {
+      "url": "https://ghostty.org/",
+      "status": 200,
+      "final_url": "https://ghostty.org/",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/book/en/v2",
+      "status": 200,
+      "final_url": "https://git-scm.com/book/en/v2",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+      "status": 200,
+      "final_url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases",
+      "status": 200,
+      "final_url": "https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/docs/git-config",
+      "status": 200,
+      "final_url": "https://git-scm.com/docs/git-config",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/docs/git-worktree",
+      "status": 200,
+      "final_url": "https://git-scm.com/docs/git-worktree",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/docs/gitignore",
+      "status": 200,
+      "final_url": "https://git-scm.com/docs/gitignore",
+      "note": ""
+    },
+    {
+      "url": "https://git-scm.com/downloads/guis",
+      "status": 200,
+      "final_url": "https://git-scm.com/downloads/guis",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "status": 200,
+      "final_url": "https://github.com/BurntSushi/ripgrep",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/BurntSushi/ripgrep/releases",
+      "status": 200,
+      "final_url": "https://github.com/BurntSushi/ripgrep/releases",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "status": 200,
+      "final_url": "https://github.com/ajeetdsouza/zoxide",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/alacritty/alacritty",
+      "status": 200,
+      "final_url": "https://github.com/alacritty/alacritty",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/anishathalye/dotfiles",
+      "status": 200,
+      "final_url": "https://github.com/anishathalye/dotfiles",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/anishathalye/proof-html",
+      "status": 200,
+      "final_url": "https://github.com/anishathalye/proof-html",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "status": 200,
+      "final_url": "https://github.com/anomalyco/opencode",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/aristocratos/btop",
+      "status": 200,
+      "final_url": "https://github.com/aristocratos/btop",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/benfred/py-spy",
+      "status": 200,
+      "final_url": "https://github.com/benfred/py-spy",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/casey/just",
+      "status": 200,
+      "final_url": "https://github.com/casey/just",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/cleanlab/office-presence-dashboard",
+      "status": 200,
+      "final_url": "https://github.com/cleanlab/office-presence-dashboard",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/curl/curl",
+      "status": 200,
+      "final_url": "https://github.com/curl/curl",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/dependabot",
+      "status": 200,
+      "final_url": "https://github.com/dependabot",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/education/students",
+      "status": 200,
+      "final_url": "https://github.com/education/students",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/features/actions",
+      "status": 200,
+      "final_url": "https://github.com/features/actions",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/features/copilot/ai-code-editor",
+      "status": 200,
+      "final_url": "https://github.com/features/copilot",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/firstcontributions/first-contributions",
+      "status": 200,
+      "final_url": "https://github.com/firstcontributions/first-contributions",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/flamegraph-rs/flamegraph",
+      "status": 200,
+      "final_url": "https://github.com/flamegraph-rs/flamegraph",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/ggreer/the_silver_searcher",
+      "status": 200,
+      "final_url": "https://github.com/ggreer/the_silver_searcher",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/iovisor/bcc",
+      "status": 200,
+      "final_url": "https://github.com/iovisor/bcc",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/iovisor/bpftrace",
+      "status": 200,
+      "final_url": "https://github.com/bpftrace/bpftrace",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/jjgo/dotfiles",
+      "status": 200,
+      "final_url": "https://github.com/jjgo/dotfiles",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/jonhoo/configs",
+      "status": 200,
+      "final_url": "https://github.com/jonhoo/configs",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/junegunn/fzf",
+      "status": 200,
+      "final_url": "https://github.com/junegunn/fzf",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/magicmonty/bash-git-prompt",
+      "status": 200,
+      "final_url": "https://github.com/magicmonty/bash-git-prompt",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/makenotion/notion-mcp-server",
+      "status": 200,
+      "final_url": "https://github.com/makenotion/notion-mcp-server",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/mathiasbynens/dotfiles",
+      "status": 200,
+      "final_url": "https://github.com/mathiasbynens/dotfiles",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/actions/workflows/build.yml",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/actions/workflows/build.yml",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/actions/workflows/links.yml",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/actions/workflows/links.yml",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/blob/master/.github/workflows/links.yml",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/blob/master/.github/workflows/links.yml",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/commit/f1e1c417adba6b4149f7eef91ff5624de40dc637",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/commit/f1e1c417adba6b4149f7eef91ff5624de40dc637",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/commit/f552b5523462b22b8893a8404d2110c4e59613dd",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/commit/f552b5523462b22b8893a8404d2110c4e59613dd",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/pull/344",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/pull/344",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/missing-semester/missing-semester/pull/345",
+      "status": 200,
+      "final_url": "https://github.com/missing-semester/missing-semester/pull/345",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "status": 200,
+      "final_url": "https://github.com/ohmyzsh/ohmyzsh",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/olivierverdier/zsh-git-prompt",
+      "status": 200,
+      "final_url": "https://github.com/olivierverdier/zsh-git-prompt",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/psf/black",
+      "status": 200,
+      "final_url": "https://github.com/psf/black",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/pydantic/pydantic-ai/blob/main/CLAUDE.md",
+      "status": 200,
+      "final_url": "https://github.com/pydantic/pydantic-ai/blob/main/CLAUDE.md",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/pyparsing/pyparsing",
+      "status": 200,
+      "final_url": "https://github.com/pyparsing/pyparsing",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/raboof/nethogs",
+      "status": 200,
+      "final_url": "https://github.com/raboof/nethogs",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/redis/redis",
+      "status": 200,
+      "final_url": "https://github.com/redis/redis",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/romkatv/powerlevel10k",
+      "status": 200,
+      "final_url": "https://github.com/romkatv/powerlevel10k",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories",
+      "status": 200,
+      "final_url": "https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/semgrep/semgrep",
+      "status": 200,
+      "final_url": "https://github.com/semgrep/semgrep",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/sharkdp/bat",
+      "status": 200,
+      "final_url": "https://github.com/sharkdp/bat",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/sharkdp/fd",
+      "status": 200,
+      "final_url": "https://github.com/sharkdp/fd",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/sharkdp/hyperfine",
+      "status": 200,
+      "final_url": "https://github.com/sharkdp/hyperfine",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/simonw/llm",
+      "status": 200,
+      "final_url": "https://github.com/simonw/llm",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/sorin-ionescu/prezto",
+      "status": 200,
+      "final_url": "https://github.com/sorin-ionescu/prezto",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/spf13/cobra",
+      "status": 200,
+      "final_url": "https://github.com/spf13/cobra",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/tmux/tmux",
+      "status": 200,
+      "final_url": "https://github.com/tmux/tmux",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/tpope/vim-fugitive",
+      "status": 200,
+      "final_url": "https://github.com/tpope/vim-fugitive",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/zsh-users/zsh-autosuggestions",
+      "status": 200,
+      "final_url": "https://github.com/zsh-users/zsh-autosuggestions",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/zsh-users/zsh-completions",
+      "status": 200,
+      "final_url": "https://github.com/zsh-users/zsh-completions",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/zsh-users/zsh-history-substring-search",
+      "status": 200,
+      "final_url": "https://github.com/zsh-users/zsh-history-substring-search",
+      "note": ""
+    },
+    {
+      "url": "https://github.com/zsh-users/zsh-syntax-highlighting",
+      "status": 200,
+      "final_url": "https://github.com/zsh-users/zsh-syntax-highlighting",
+      "note": ""
+    },
+    {
+      "url": "https://glama.ai/mcp/servers",
+      "status": 200,
+      "final_url": "https://glama.ai/mcp/servers",
+      "note": ""
+    },
+    {
+      "url": "https://go.dev/gopls/",
+      "status": 200,
+      "final_url": "https://go.dev/gopls/",
+      "note": ""
+    },
+    {
+      "url": "https://hackage.haskell.org/package/QuickCheck",
+      "status": 200,
+      "final_url": "https://hackage.haskell.org/package/QuickCheck",
+      "note": ""
+    },
+    {
+      "url": "https://hatch.pypa.io/",
+      "status": 200,
+      "final_url": "https://hatch.pypa.io/",
+      "note": ""
+    },
+    {
+      "url": "https://help.github.com/articles/connecting-to-github-with-ssh/",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/authentication/connecting-to-github-with-ssh",
+      "note": ""
+    },
+    {
+      "url": "https://help.github.com/articles/removing-sensitive-data-from-a-repository/",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository",
+      "note": ""
+    },
+    {
+      "url": "https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pull-requests/reference/pull-requests",
+      "note": ""
+    },
+    {
+      "url": "https://hibbard.eu/install-ubuntu-virtual-box/",
+      "status": 200,
+      "final_url": "https://hibbard.eu/install-ubuntu-virtual-box/",
+      "note": ""
+    },
+    {
+      "url": "https://htop.dev/",
+      "status": 200,
+      "final_url": "https://htop.dev/",
+      "note": ""
+    },
+    {
+      "url": "https://hub.docker.com",
+      "status": 200,
+      "final_url": "https://hub.docker.com",
+      "note": ""
+    },
+    {
+      "url": "https://hypothesis.readthedocs.io/",
+      "status": 200,
+      "final_url": "https://hypothesis.readthedocs.io/en/latest/",
+      "note": ""
+    },
+    {
+      "url": "https://jqlang.github.io/jq/",
+      "status": 200,
+      "final_url": "https://jqlang.org/",
+      "note": ""
+    },
+    {
+      "url": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+      "status": 200,
+      "final_url": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+      "note": ""
+    },
+    {
+      "url": "https://jvns.ca/blog/good-questions/",
+      "status": 200,
+      "final_url": "https://jvns.ca/blog/good-questions/",
+      "note": ""
+    },
+    {
+      "url": "https://jvns.ca/strace-zine-unfolded.pdf",
+      "status": 200,
+      "final_url": "https://jvns.ca/strace-zine-unfolded.pdf",
+      "note": ""
+    },
+    {
+      "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
+      "status": 200,
+      "final_url": "https://jwiegley.github.io/git-from-the-bottom-up/",
+      "note": ""
+    },
+    {
+      "url": "https://learngitbranching.js.org/",
+      "status": 200,
+      "final_url": "https://learngitbranching.js.org/",
+      "note": ""
+    },
+    {
+      "url": "https://leetcode.com/",
+      "status": 403,
+      "final_url": "https://leetcode.com/",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://linuxcommand.org/lc3_adv_termmux.php",
+      "status": 200,
+      "final_url": "https://linuxcommand.org/lc3_adv_termmux.php",
+      "note": ""
+    },
+    {
+      "url": "https://lldb.llvm.org/",
+      "status": 200,
+      "final_url": "https://lldb.llvm.org/",
+      "note": ""
+    },
+    {
+      "url": "https://llmstxt.org/",
+      "status": 200,
+      "final_url": "https://llmstxt.org/",
+      "note": ""
+    },
+    {
+      "url": "https://man7.org/linux/man-pages/man1/bg.1p.html",
+      "status": 200,
+      "final_url": "https://man7.org/linux/man-pages/man1/bg.1p.html",
+      "note": ""
+    },
+    {
+      "url": "https://man7.org/linux/man-pages/man1/pgrep.1.html",
+      "status": 200,
+      "final_url": "https://man7.org/linux/man-pages/man1/pgrep.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=golang.go",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/items?itemName=golang.go",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs",
+      "status": 200,
+      "final_url": "https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs",
+      "note": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://matplotlib.org/",
+      "status": 200,
+      "final_url": "https://matplotlib.org/",
+      "note": ""
+    },
+    {
+      "url": "https://memcached.org/",
+      "status": 200,
+      "final_url": "https://memcached.org/",
+      "note": ""
+    },
+    {
+      "url": "https://microsoft.github.io/language-server-protocol/",
+      "status": 200,
+      "final_url": "https://microsoft.github.io/language-server-protocol/",
+      "note": ""
+    },
+    {
+      "url": "https://missing.csail.mit.edu/",
+      "status": 200,
+      "final_url": "https://missing.csail.mit.edu/",
+      "note": ""
+    },
+    {
+      "url": "https://missing.csail.mit.edu/2020/editors/",
+      "status": 200,
+      "final_url": "https://missing.csail.mit.edu/2020/editors/",
+      "note": ""
+    },
+    {
+      "url": "https://missing.csail.mit.edu/about/",
+      "status": 200,
+      "final_url": "https://missing.csail.mit.edu/about/",
+      "note": ""
+    },
+    {
+      "url": "https://mitmproxy.org/",
+      "status": 200,
+      "final_url": "https://www.mitmproxy.org/",
+      "note": ""
+    },
+    {
+      "url": "https://mosh.org/",
+      "status": 200,
+      "final_url": "https://mosh.org/",
+      "note": ""
+    },
+    {
+      "url": "https://mypy-lang.org/",
+      "status": 200,
+      "final_url": "https://mypy-lang.org/",
+      "note": ""
+    },
+    {
+      "url": "https://mywiki.wooledge.org/BashPitfalls",
+      "status": 200,
+      "final_url": "https://mywiki.wooledge.org/BashPitfalls",
+      "note": "TimeoutError: The read operation timed out"
+    },
+    {
+      "url": "https://nixos.org/",
+      "status": 200,
+      "final_url": "https://nixos.org/",
+      "note": ""
+    },
+    {
+      "url": "https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager",
+      "status": 200,
+      "final_url": "https://nodejs.org/learn/getting-started/an-introduction-to-the-npm-package-manager",
+      "note": ""
+    },
+    {
+      "url": "https://nvie.com/posts/a-successful-git-branching-model/",
+      "status": 200,
+      "final_url": "https://nvie.com/posts/a-successful-git-branching-model/",
+      "note": ""
+    },
+    {
+      "url": "https://ohmyz.sh/",
+      "status": 200,
+      "final_url": "https://ohmyz.sh/",
+      "note": ""
+    },
+    {
+      "url": "https://ohshitgit.com/",
+      "status": 200,
+      "final_url": "https://ohshitgit.com/",
+      "note": ""
+    },
+    {
+      "url": "https://openai.com/codex/",
+      "status": 403,
+      "final_url": "https://openai.com/codex/",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/openai-codex/",
+      "status": 403,
+      "final_url": "https://openai.com/index/openai-codex/",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://ossu.dev/",
+      "status": 200,
+      "final_url": "https://ossu.dev/",
+      "note": ""
+    },
+    {
+      "url": "https://pages.github.com/",
+      "status": 200,
+      "final_url": "https://pages.github.com/",
+      "note": ""
+    },
+    {
+      "url": "https://pdw.ex-parrot.com/Mail-RFC822-Address.html",
+      "status": 200,
+      "final_url": "https://pdw.ex-parrot.com/Mail-RFC822-Address.html",
+      "note": ""
+    },
+    {
+      "url": "https://pdw.ex-parrot.com/iftop/",
+      "status": 200,
+      "final_url": "https://pdw.ex-parrot.com/iftop/",
+      "note": ""
+    },
+    {
+      "url": "https://peps.python.org/pep-0440/",
+      "status": 200,
+      "final_url": "https://peps.python.org/pep-0440/",
+      "note": ""
+    },
+    {
+      "url": "https://peps.python.org/pep-0517/",
+      "status": 200,
+      "final_url": "https://peps.python.org/pep-0517/",
+      "note": ""
+    },
+    {
+      "url": "https://peps.python.org/pep-0621/",
+      "status": 200,
+      "final_url": "https://peps.python.org/pep-0621/",
+      "note": ""
+    },
+    {
+      "url": "https://perfetto.dev/",
+      "status": 200,
+      "final_url": "https://perfetto.dev/",
+      "note": ""
+    },
+    {
+      "url": "https://pkg.go.dev/cmd/go",
+      "status": 200,
+      "final_url": "https://pkg.go.dev/cmd/go",
+      "note": ""
+    },
+    {
+      "url": "https://pkg.go.dev/cmd/gofmt",
+      "status": 200,
+      "final_url": "https://pkg.go.dev/cmd/gofmt",
+      "note": ""
+    },
+    {
+      "url": "https://pkg.go.dev/cmd/pprof",
+      "status": 200,
+      "final_url": "https://pkg.go.dev/cmd/pprof",
+      "note": ""
+    },
+    {
+      "url": "https://pragprog.com/titles/dnvim2/",
+      "status": 200,
+      "final_url": "https://pragprog.com/titles/dnvim2/",
+      "note": ""
+    },
+    {
+      "url": "https://pre-commit.com/",
+      "status": 200,
+      "final_url": "https://pre-commit.com/",
+      "note": ""
+    },
+    {
+      "url": "https://prettier.io/",
+      "status": 200,
+      "final_url": "https://prettier.io/",
+      "note": ""
+    },
+    {
+      "url": "https://prettier.io/docs/configuration",
+      "status": 200,
+      "final_url": "https://prettier.io/docs/configuration",
+      "note": ""
+    },
+    {
+      "url": "https://profiler.firefox.com/docs/",
+      "status": 200,
+      "final_url": "https://profiler.firefox.com/docs/",
+      "note": ""
+    },
+    {
+      "url": "https://pypi.org",
+      "status": 200,
+      "final_url": "https://pypi.org",
+      "note": ""
+    },
+    {
+      "url": "https://pypi.org/",
+      "status": 200,
+      "final_url": "https://pypi.org/",
+      "note": ""
+    },
+    {
+      "url": "https://pypi.org/project/memory-profiler/",
+      "status": 200,
+      "final_url": "https://pypi.org/project/memory-profiler/",
+      "note": ""
+    },
+    {
+      "url": "https://python-poetry.org/",
+      "status": 200,
+      "final_url": "https://python-poetry.org/",
+      "note": ""
+    },
+    {
+      "url": "https://raw.githubusercontent.com/missing-semester/missing-semester/refs/heads/master/_2026/code-quality.md",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/missing-semester/missing-semester/refs/heads/master/_2026/code-quality.md",
+      "note": ""
+    },
+    {
+      "url": "https://redis.io/",
+      "status": 200,
+      "final_url": "https://redis.io/",
+      "note": ""
+    },
+    {
+      "url": "https://regex101.com/",
+      "status": 200,
+      "final_url": "https://regex101.com/",
+      "note": ""
+    },
+    {
+      "url": "https://rr-project.org/",
+      "status": 200,
+      "final_url": "https://rr-project.org/",
+      "note": ""
+    },
+    {
+      "url": "https://rubygems.org",
+      "status": 200,
+      "final_url": "https://rubygems.org",
+      "note": ""
+    },
+    {
+      "url": "https://semver.org/",
+      "status": 200,
+      "final_url": "https://semver.org/",
+      "note": ""
+    },
+    {
+      "url": "https://serokell.io/blog/practical-nix-flakes",
+      "status": 200,
+      "final_url": "https://serokell.io/blog/practical-nix-flakes",
+      "note": ""
+    },
+    {
+      "url": "https://smusamashah.github.io/blog/2017/10/14/explain-git-in-simple-words",
+      "status": 200,
+      "final_url": "https://xosh.org/blog/2017/10/14/explain-git-in-simple-words/",
+      "note": ""
+    },
+    {
+      "url": "https://spec.commonmark.org/0.31.2/",
+      "status": 200,
+      "final_url": "https://spec.commonmark.org/0.31.2/",
+      "note": ""
+    },
+    {
+      "url": "https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html",
+      "status": 200,
+      "final_url": "https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html",
+      "note": ""
+    },
+    {
+      "url": "https://test.pypi.org",
+      "status": 200,
+      "final_url": "https://test.pypi.org",
+      "note": ""
+    },
+    {
+      "url": "https://thesquareplanet.com/",
+      "status": 200,
+      "final_url": "https://thesquareplanet.com/",
+      "note": ""
+    },
+    {
+      "url": "https://tldp.org/LDP/abs/html/gotchas.html",
+      "status": 200,
+      "final_url": "https://tldp.org/LDP/abs/html/gotchas.html",
+      "note": ""
+    },
+    {
+      "url": "https://tldr.sh/",
+      "status": 200,
+      "final_url": "https://tldr.sh/",
+      "note": ""
+    },
+    {
+      "url": "https://valgrind.org/",
+      "status": 200,
+      "final_url": "https://valgrind.org/",
+      "note": ""
+    },
+    {
+      "url": "https://valgrind.org/docs/manual/cl-manual.html",
+      "status": 200,
+      "final_url": "https://valgrind.org/docs/manual/cl-manual.html",
+      "note": ""
+    },
+    {
+      "url": "https://valgrind.org/docs/manual/ms-manual.html",
+      "status": 200,
+      "final_url": "https://valgrind.org/docs/manual/ms-manual.html",
+      "note": ""
+    },
+    {
+      "url": "https://vi.stackexchange.com/",
+      "status": 403,
+      "final_url": "https://vi.stackexchange.com/",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://vim-adventures.com/",
+      "status": 200,
+      "final_url": "https://vim-adventures.com/",
+      "note": ""
+    },
+    {
+      "url": "https://vim.fandom.com/wiki/Avoid_the_escape_key",
+      "status": 403,
+      "final_url": "https://vim.fandom.com/wiki/Avoid_the_escape_key",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS",
+      "status": 403,
+      "final_url": "https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://vim.fandom.com/wiki/Vim_Tips_Wiki",
+      "status": 403,
+      "final_url": "https://vim.fandom.com/wiki/Vim_Tips_Wiki",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://vimawesome.com/",
+      "status": 200,
+      "final_url": "https://vimawesome.com/",
+      "note": ""
+    },
+    {
+      "url": "https://vimways.org/2019/",
+      "status": 200,
+      "final_url": "https://vimways.org/2019/",
+      "note": ""
+    },
+    {
+      "url": "https://vita.had.co.nz/papers/tidy-data.pdf",
+      "status": 200,
+      "final_url": "https://vita.had.co.nz/papers/tidy-data.pdf",
+      "note": ""
+    },
+    {
+      "url": "https://warpspeed.dev/",
+      "status": 200,
+      "final_url": "https://warpspeed.dev/",
+      "note": ""
+    },
+    {
+      "url": "https://web.archive.org/web/20260329133158/https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html",
+      "status": 200,
+      "final_url": "https://web.archive.org/web/20260329133158/https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html",
+      "note": ""
+    },
+    {
+      "url": "https://wiki.c2.com/?PrematureOptimization",
+      "status": 200,
+      "final_url": "https://wiki.c2.com/?PrematureOptimization",
+      "note": ""
+    },
+    {
+      "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+      "status": 200,
+      "final_url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+      "note": ""
+    },
+    {
+      "url": "https://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg",
+      "status": 200,
+      "final_url": "https://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg",
+      "note": ""
+    },
+    {
+      "url": "https://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html",
+      "status": 200,
+      "final_url": "https://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.brendangregg.com/flamegraphs.html",
+      "status": 200,
+      "final_url": "https://www.brendangregg.com/flamegraphs.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.claude.com/product/claude-code",
+      "status": 200,
+      "final_url": "https://claude.com/product/claude-code",
+      "note": ""
+    },
+    {
+      "url": "https://www.docker.com/",
+      "status": 200,
+      "final_url": "https://www.docker.com/",
+      "note": ""
+    },
+    {
+      "url": "https://www.endoflineblog.com/gitflow-considered-harmful",
+      "status": 200,
+      "final_url": "https://www.endoflineblog.com/gitflow-considered-harmful",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Arithmetic-Expansion.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Arithmetic-Expansion.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Exit-Status.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Exit-Status.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Quoting.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Quoting.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.gnu.org/software/gdb/",
+      "status": 200,
+      "final_url": "https://www.gnu.org/software/gdb/",
+      "note": ""
+    },
+    {
+      "url": "https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "status": 200,
+      "final_url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+      "note": ""
+    },
+    {
+      "url": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+      "status": 200,
+      "final_url": "https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/alias.1p.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/alias.1p.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/fg.1p.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/fg.1p.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/free.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/free.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/jobs.1p.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/jobs.1p.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/kill.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/kill.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/ls.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/ls.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/nohup.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/nohup.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/perf.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/perf.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/pgrep.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/pgrep.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/rsync.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/rsync.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/scp.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/scp.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/ssh-keygen.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/ssh-keygen.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/strace.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/strace.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/tcpdump.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/tcpdump.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/tmux.1.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/tmux.1.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man1/wait.1p.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man1/wait.1p.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man7/signal.7.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man7/signal.7.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man8/iotop.8.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man8/iotop.8.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man8/lsof.8.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man8/lsof.8.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.man7.org/linux/man-pages/man8/ss.8.html",
+      "status": 200,
+      "final_url": "https://www.man7.org/linux/man-pages/man8/ss.8.html",
+      "note": ""
+    },
+    {
+      "url": "https://www.manpagez.com/man/1/dtruss/",
+      "status": 200,
+      "final_url": "https://www.manpagez.com/man/1/dtruss/",
+      "note": ""
+    },
+    {
+      "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+      "status": 200,
+      "final_url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+      "note": ""
+    },
+    {
+      "url": "https://www.npmjs.com",
+      "status": 403,
+      "final_url": "https://www.npmjs.com",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.pulsemcp.com/servers",
+      "status": 403,
+      "final_url": "https://www.pulsemcp.com/servers",
+      "note": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.shellcheck.net/",
+      "status": 200,
+      "final_url": "https://www.shellcheck.net/",
+      "note": ""
+    },
+    {
+      "url": "https://www.speedscope.app/",
+      "status": 200,
+      "final_url": "https://www.speedscope.app/",
+      "note": ""
+    },
+    {
+      "url": "https://www.ssh.com/ssh/agent",
+      "status": 200,
+      "final_url": "https://www.ssh.com/academy/ssh/agent",
+      "note": ""
+    },
+    {
+      "url": "https://www.vim.org/",
+      "status": 200,
+      "final_url": "https://www.vim.org/",
+      "note": ""
+    },
+    {
+      "url": "https://www.vimgolf.com/",
+      "status": 200,
+      "final_url": "https://www.vimgolf.com/",
+      "note": ""
+    },
+    {
+      "url": "https://www.wireshark.org/",
+      "status": 200,
+      "final_url": "https://www.wireshark.org/",
+      "note": ""
+    },
+    {
+      "url": "https://www.youtube.com/@MissingSemester",
+      "status": 200,
+      "final_url": "https://www.youtube.com/@MissingSemester",
+      "note": ""
+    },
+    {
+      "url": "https://www.zsh.org/",
+      "status": 200,
+      "final_url": "https://www.zsh.org/",
+      "note": ""
+    },
+    {
+      "url": "https://xkcd.com/1597/",
+      "status": 200,
+      "final_url": "https://xkcd.com/1597/",
+      "note": ""
+    },
+    {
+      "url": "https://zsh.sourceforge.io/Guide/zshguide04.html",
+      "status": 200,
+      "final_url": "https://zsh.sourceforge.io/Guide/zshguide04.html",
+      "note": ""
+    }
+  ]
+}

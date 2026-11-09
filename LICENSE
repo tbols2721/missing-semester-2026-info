@@ -1,0 +1,17 @@
+The lecture notes, exercises, study guides, and GNU Info adaptation are licensed
+under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+Original work: The Missing Semester of Your CS Education (MIT IAP 2026).
+Authors: Anish Athalye, Jon Gjengset, Jose Javier Gonzalez, and contributors.
+Source: https://missing.csail.mit.edu/2026/
+Source repository: https://github.com/missing-semester/missing-semester
+
+Changes: GNU Texinfo/Info conversion; native navigation and cross-references;
+concept index; original study guides and technical reading notes; literal text
+rendering of the Git diagram; labeled image URLs; removal of website metadata
+and hidden comments. No endorsement by the original authors is implied.
+
+License summary: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Full legal terms: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+The original course license notice is in sources/upstream-license.md.

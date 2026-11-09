@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "debugging-profiling",
+    "overview": "Use evidence to explain a failure or a performance limit. This lecture moves from logs and breakpoints to execution recording, operating system tracing, memory checks, and resource measurements. Select a tool for the question you need to answer. Then reproduce the result before you change the program.",
+    "objectives": [
+      "Choose logs, a debugger, or a system call trace to inspect program behavior.",
+      "Use a recorded execution to trace corrupted state back to its cause.",
+      "Distinguish elapsed time, CPU time, memory use, and sampled call stacks.",
+      "Measure a representative workload before and after an optimization."
+    ],
+    "reading_notes": [
+      "The merge sort, memory corruption, and use-after-free exercises contain deliberate defects. Keep these defects until you use the specified tool to find them.",
+      "Replace placeholders such as <PID> with actual values. Angle brackets in a command are shell syntax, not part of a process identifier.",
+      "A flame graph groups stack samples. Its width shows the amount of sampled work; its horizontal position does not show when that work occurred.",
+      "Tracing tools have different operating system, hardware, and permission requirements. Read the linked tool documentation when an example cannot run on your system."
+    ],
+    "index_terms": ["debugging", "logging", "GDB", "rr", "strace", "bpftrace", "AddressSanitizer", "Valgrind", "profiling", "perf", "flame graphs", "benchmarking"]
+  },
+  {
+    "slug": "version-control",
+    "overview": "Understand Git through the data it stores. Files become blobs, directories become trees, and commits connect snapshots into a directed acyclic graph. References give commits useful names. This model explains how staging, branches, merges, and remotes work, and helps you choose commands with a clear purpose.",
+    "objectives": [
+      "Explain the relation between objects, commits, references, and HEAD.",
+      "Use the staging area to select the content of the next commit.",
+      "Inspect history and compare file versions before you make changes.",
+      "Resolve a merge conflict and explain the resulting commit graph."
+    ],
+    "reading_notes": [
+      "The history diagrams point from a commit to its parent. Read the arrow direction carefully when you trace a branch or merge.",
+      "Examples use the branch name master. A new repository can use main or another name. Check the actual branch with git branch.",
+      "The lecture uses SHA-1 object names to explain content addressing. Keep the distinction between immutable objects and movable references.",
+      "With one revision argument, git diff compares that revision with the working tree. To compare two commits, supply both revisions.",
+      "Practice reset, restore, and history edits in the exercise repository. These operations can discard local changes or replace commit references."
+    ],
+    "index_terms": ["Git", "version control", "blobs", "trees", "commits", "directed acyclic graphs", "references", "HEAD", "staging area", "branches", "merging", "remotes", "rebase", "bisect"]
+  },
+  {
+    "slug": "shipping-code",
+    "overview": "Shipping code requires an artifact and an explicit description of its environment. This lecture uses Python packages to explain dependencies, isolated environments, release versions, and reproducible builds. It then adds containers, configuration, supporting services, and package registries. Track what each step produces and what the next step needs.",
+    "objectives": [
+      "Separate source code, build artifacts, installed packages, and running services.",
+      "Create a project environment and describe package metadata in pyproject.toml.",
+      "Distinguish compatible dependency ranges from a locked application environment.",
+      "Explain how images, containers, configuration, and Compose services fit together."
+    ],
+    "reading_notes": [
+      "A fresh virtual environment does not contain requests. Install it in that environment before you run the lecture's import example. The displayed transcript omits this installation step.",
+      "An image tag such as python:3.12 or uv:latest can change. The improved Dockerfile demonstrates build caching but does not pin every input or switch to a non-root user.",
+      "Compose depends_on starts services in order. An application must still handle a dependency that is not ready to accept connections.",
+      "The systemd example starts Compose at boot. Its oneshot unit does not itself restart failed application containers; configure the container restart policy for that behavior.",
+      "Publishing examples include placeholder package URLs and version-specific output. Substitute your own artifact and registry details."
+    ],
+    "index_terms": ["packaging", "shipping code", "dependencies", "virtual environments", "pyproject.toml", "wheels", "semantic versioning", "lock files", "reproducibility", "Docker", "containers", "configuration", "Compose", "PyPI"]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "agentic-coding",
+    "overview": "This lecture explains how a coding agent combines a language model, conversation history, and tools. The main skill is to give the agent a clear task and a useful feedback loop. You remain responsible for the result. Read this lecture after the development environment lecture, then compare the different ways an agent can help with the same small change.",
+    "objectives": [
+      "Explain how a harness sends tool results and conversation history back to a model.",
+      "Give an agent a task that it can check with a compiler, linter, type checker, or test.",
+      "Choose between project instructions, skills, subagents, and separate worktrees.",
+      "Manage context and review the changes before you accept the result."
+    ],
+    "reading_notes": [
+      "The opening Python program is a demonstration. Its regular expression finds a limited Markdown link form; it is not a complete Markdown parser.",
+      "Keep tool access, model inference, and the context window separate in your reasoning. A local command-line interface can still send data to a remote model.",
+      "Product features and model limits change. Treat the named tools and commands as the lecture's January 2026 examples."
+    ],
+    "index_terms": ["coding agents", "agent harness", "tool calling", "context window", "context compaction", "AGENTS.md", "skills", "subagents", "Model Context Protocol", "git worktrees"]
+  },
+  {
+    "slug": "beyond-code",
+    "overview": "This lecture treats technical communication as part of software engineering. Good comments, commit messages, bug reports, and reviews preserve the reasons behind a decision. They also reduce the work that another person must do to understand your contribution. Use the exercises with a project you know, so you can compare the written record with the context that the author probably had.",
+    "objectives": [
+      "Write comments that record assumptions, constraints, and reasons that the code does not show.",
+      "Explain a change through its problem, solution, and consequences.",
+      "Prepare a bug report with an environment, expected result, actual result, and reproducible steps.",
+      "Give specific review feedback and distinguish required changes from optional suggestions.",
+      "Ask focused questions and disclose meaningful AI assistance."
+    ],
+    "reading_notes": [
+      "Keep the reader's task in view. A useful explanation supplies missing context without repeating each operation in the code.",
+      "Read the project's contribution instructions before you prepare a change. A small, coherent patch is easier to explain and review.",
+      "The exercises ask you to inspect real examples. Record the evidence for your judgment, including what a maintainer would still need to ask."
+    ],
+    "index_terms": ["technical communication", "code comments", "README", "commit messages", "bug reports", "minimal reproducible example", "code review", "contributing", "AI disclosure"]
+  },
+  {
+    "slug": "code-quality",
+    "overview": "This lecture connects local code checks with repeatable project checks. Formatters standardize syntax, linters detect selected problems, and tests check observed behavior. Hooks and continuous integration run these tools at useful points in development. The final sections introduce regular expressions as a shared tool for search, replacement, and test selection. Work through a small project so you can see both a passing check and an intentional failure.",
+    "objectives": [
+      "Distinguish formatting, static analysis, tests, and coverage.",
+      "Configure checks that contributors can run locally and in continuous integration.",
+      "Explain the roles of pre-commit hooks, command runners, and deployment jobs.",
+      "Use regex groups and quantifiers, and recognize when a parser is the better tool."
+    ],
+    "reading_notes": [
+      "Coverage shows which code ran. It does not show whether an assertion checked the correct result or whether every useful input was tested.",
+      "Regex syntax depends on the engine. The lecture uses Python syntax; grep and an editor can use different rules and replacement references.",
+      "In Python, a dot excludes a newline by default. Digit and word classes include Unicode characters unless an appropriate flag changes that behavior.",
+      "Read prompt examples and interpreter transcripts as examples; do not include their surrounding prose or prompt markers in a program."
+    ],
+    "index_terms": ["code formatting", "linting", "static analysis", "unit tests", "property-based testing", "code coverage", "pre-commit hooks", "continuous integration", "continuous deployment", "command runners", "regular expressions", "capture groups"]
+  }
+]

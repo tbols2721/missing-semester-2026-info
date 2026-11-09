@@ -1,0 +1,8 @@
+# Info section underlines can look like Git's seven-character conflict marker.
+# This is generated output; use a marker length that cannot match an underline.
+info/*.info conflict-marker-size=9999
+
+# Preserve lecture snapshots and generated Texinfo/Info formatting.
+sources/** -whitespace
+manual/** -whitespace
+info/** -whitespace

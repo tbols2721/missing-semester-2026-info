@@ -1,0 +1,2 @@
+d8da47b71a9ae4bd4e8c60dcb09669e743152725ce72cf31983acd7174b3f4c6  manual/missing-semester-2026.texi
+9d689669bbda42ccdf2123bc4f26c5c2f289215464e834ca6dd4df2af42b0bef  info/missing-semester-2026.info

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
+reports/claude-review.raw.txt
+
+# Private diagnostics and credentials
+*.log
+.env
+.env.*
+*.pem
+*.key
+*.bundle
+*.pcap
+*.pcapng
+local/

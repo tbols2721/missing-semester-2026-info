@@ -1,0 +1,2501 @@
+[
+  {
+    "lecture": "course-shell",
+    "label": "Anish",
+    "source": "https://anish.io/",
+    "url": "https://anish.io/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Jon",
+    "source": "https://thesquareplanet.com/",
+    "url": "https://thesquareplanet.com/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Jose",
+    "source": "http://josejg.com/",
+    "url": "http://josejg.com/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "missing-semester@mit.edu",
+    "source": "mailto:missing-semester@mit.edu",
+    "url": "mailto:missing-semester@mit.edu",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "course materials",
+    "source": "https://missing.csail.mit.edu/",
+    "url": "https://missing.csail.mit.edu/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "recordings of the lectures",
+    "source": "https://www.youtube.com/@MissingSemester",
+    "url": "https://www.youtube.com/@MissingSemester",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "address this",
+    "source": "/about/",
+    "url": "https://missing.csail.mit.edu/about/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "particular topic",
+    "source": "/2026/",
+    "url": "https://missing.csail.mit.edu/2026/",
+    "node": "Top"
+  },
+  {
+    "lecture": "course-shell",
+    "label": "online",
+    "source": "https://www.youtube.com/@MissingSemester",
+    "url": "https://www.youtube.com/@MissingSemester",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "OSSU Discord",
+    "source": "https://ossu.dev/#community",
+    "url": "https://ossu.dev/#community",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "missing-semester@mit.edu",
+    "source": "mailto:missing-semester@mit.edu",
+    "url": "mailto:missing-semester@mit.edu",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "missing-semester@mit.edu",
+    "source": "mailto:missing-semester@mit.edu",
+    "url": "mailto:missing-semester@mit.edu",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Windows Subsystem for Linux",
+    "source": "https://docs.microsoft.com/en-us/windows/wsl/",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Code Quality lecture",
+    "source": "/2026/code-quality/",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/",
+    "node": "Quality"
+  },
+  {
+    "lecture": "course-shell",
+    "label": "tldr",
+    "source": "https://tldr.sh/",
+    "url": "https://tldr.sh/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "zoxide",
+    "source": "https://github.com/ajeetdsouza/zoxide",
+    "url": "https://github.com/ajeetdsouza/zoxide",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "eza",
+    "source": "https://eza.rocks/",
+    "url": "https://eza.rocks/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "bat",
+    "source": "https://github.com/sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "cover those",
+    "source": "/2026/code-quality/#regular-expressions",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#regular-expressions",
+    "node": "Quality - Regular expressions"
+  },
+  {
+    "lecture": "course-shell",
+    "label": "ripgrep",
+    "source": "https://github.com/BurntSushi/ripgrep",
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "fd",
+    "source": "https://github.com/sharkdp/fd",
+    "url": "https://github.com/sharkdp/fd",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "shell redirections",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "arithmetic expansion",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Arithmetic-Expansion.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Arithmetic-Expansion.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "multiple",
+    "source": "https://tldp.org/LDP/abs/html/gotchas.html",
+    "url": "https://tldp.org/LDP/abs/html/gotchas.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "listing them",
+    "source": "https://mywiki.wooledge.org/BashPitfalls",
+    "url": "https://mywiki.wooledge.org/BashPitfalls",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "shellcheck",
+    "source": "https://www.shellcheck.net/",
+    "url": "https://www.shellcheck.net/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Discord",
+    "source": "https://ossu.dev/#community",
+    "url": "https://ossu.dev/#community",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Windows Subsystem for Linux",
+    "source": "https://docs.microsoft.com/en-us/windows/wsl/",
+    "url": "https://docs.microsoft.com/en-us/windows/wsl/",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Pattern Matching",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Quoting",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Quoting.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Quoting.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Redirections",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Redirections.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Exit Status",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Exit-Status.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Exit-Status.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Bash Conditional Expressions",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Bash-Conditional-Expressions.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "The Set Builtin",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/The-Set-Builtin.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Command Substitution",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "Special Parameters",
+    "source": "https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html",
+    "url": "https://www.gnu.org/software/bash/manual/html_node/Special-Parameters.html",
+    "node": null
+  },
+  {
+    "lecture": "course-shell",
+    "label": "jq",
+    "source": "https://jqlang.github.io/jq/",
+    "url": "https://jqlang.github.io/jq/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "fzf",
+    "source": "https://github.com/junegunn/fzf",
+    "url": "https://github.com/junegunn/fzf",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "short-circuiting",
+    "source": "https://en.wikipedia.org/wiki/Short-circuit_evaluation",
+    "url": "https://en.wikipedia.org/wiki/Short-circuit_evaluation",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "kill",
+    "source": "https://www.man7.org/linux/man-pages/man1/kill.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/kill.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "fg",
+    "source": "https://www.man7.org/linux/man-pages/man1/fg.1p.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/fg.1p.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "bg",
+    "source": "https://man7.org/linux/man-pages/man1/bg.1p.html",
+    "url": "https://man7.org/linux/man-pages/man1/bg.1p.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "jobs",
+    "source": "https://www.man7.org/linux/man-pages/man1/jobs.1p.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/jobs.1p.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "pgrep",
+    "source": "https://www.man7.org/linux/man-pages/man1/pgrep.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/pgrep.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "nohup",
+    "source": "https://www.man7.org/linux/man-pages/man1/nohup.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/nohup.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "here",
+    "source": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+    "url": "https://en.wikipedia.org/wiki/Signal_(IPC)",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "man signal",
+    "source": "https://www.man7.org/linux/man-pages/man7/signal.7.html",
+    "url": "https://www.man7.org/linux/man-pages/man7/signal.7.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Mosh",
+    "source": "https://mosh.org/",
+    "url": "https://mosh.org/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "ssh-keygen",
+    "source": "https://www.man7.org/linux/man-pages/man1/ssh-keygen.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/ssh-keygen.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "here",
+    "source": "https://help.github.com/articles/connecting-to-github-with-ssh/",
+    "url": "https://help.github.com/articles/connecting-to-github-with-ssh/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "scp",
+    "source": "https://www.man7.org/linux/man-pages/man1/scp.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/scp.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "rsync",
+    "source": "https://www.man7.org/linux/man-pages/man1/rsync.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/rsync.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "tmux",
+    "source": "https://www.man7.org/linux/man-pages/man1/tmux.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/tmux.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "tmux",
+    "source": "https://www.man7.org/linux/man-pages/man1/tmux.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/tmux.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "this",
+    "source": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+    "url": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "this",
+    "source": "https://linuxcommand.org/lc3_adv_termmux.php",
+    "url": "https://linuxcommand.org/lc3_adv_termmux.php",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Here",
+    "source": "https://web.archive.org/web/20260329133158/https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html",
+    "url": "https://web.archive.org/web/20260329133158/https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Homebrew",
+    "source": "https://brew.sh/",
+    "url": "https://brew.sh/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "command-not-found.com",
+    "source": "https://command-not-found.com",
+    "url": "https://command-not-found.com",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "tldr",
+    "source": "https://tldr.sh/",
+    "url": "https://tldr.sh/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "alias",
+    "source": "https://www.man7.org/linux/man-pages/man1/alias.1p.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/alias.1p.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "man pages",
+    "source": "https://en.wikipedia.org/wiki/Man_page",
+    "url": "https://en.wikipedia.org/wiki/Man_page",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "dotfiles repositories",
+    "source": "https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories",
+    "url": "https://github.com/search?o=desc&q=dotfiles&s=stars&type=Repositories",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "here",
+    "source": "https://github.com/mathiasbynens/dotfiles",
+    "url": "https://github.com/mathiasbynens/dotfiles",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Here",
+    "source": "https://dotfiles.github.io/",
+    "url": "https://dotfiles.github.io/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Anish",
+    "source": "https://github.com/anishathalye/dotfiles",
+    "url": "https://github.com/anishathalye/dotfiles",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Jon",
+    "source": "https://github.com/jonhoo/configs",
+    "url": "https://github.com/jonhoo/configs",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Jose",
+    "source": "https://github.com/jjgo/dotfiles",
+    "url": "https://github.com/jjgo/dotfiles",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "prezto",
+    "source": "https://github.com/sorin-ionescu/prezto",
+    "url": "https://github.com/sorin-ionescu/prezto",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "oh-my-zsh",
+    "source": "https://ohmyz.sh/",
+    "url": "https://ohmyz.sh/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "zsh-syntax-highlighting",
+    "source": "https://github.com/zsh-users/zsh-syntax-highlighting",
+    "url": "https://github.com/zsh-users/zsh-syntax-highlighting",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "zsh-autosuggestions",
+    "source": "https://github.com/zsh-users/zsh-autosuggestions",
+    "url": "https://github.com/zsh-users/zsh-autosuggestions",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "zsh-completions",
+    "source": "https://github.com/zsh-users/zsh-completions",
+    "url": "https://github.com/zsh-users/zsh-completions",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "zsh-history-substring-search",
+    "source": "https://github.com/zsh-users/zsh-history-substring-search",
+    "url": "https://github.com/zsh-users/zsh-history-substring-search",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "powerlevel10k",
+    "source": "https://github.com/romkatv/powerlevel10k",
+    "url": "https://github.com/romkatv/powerlevel10k",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "fish",
+    "source": "https://fishshell.com/",
+    "url": "https://fishshell.com/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "simonw/llm",
+    "source": "https://github.com/simonw/llm",
+    "url": "https://github.com/simonw/llm",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Claude Code",
+    "source": "https://docs.anthropic.com/en/docs/claude-code",
+    "url": "https://docs.anthropic.com/en/docs/claude-code",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Alacritty",
+    "source": "https://github.com/alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "Ghostty",
+    "source": "https://ghostty.org/",
+    "url": "https://ghostty.org/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "man ls",
+    "source": "https://www.man7.org/linux/man-pages/man1/ls.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/ls.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "pgrep",
+    "source": "https://www.man7.org/linux/man-pages/man1/pgrep.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/pgrep.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "pkill",
+    "source": "https://man7.org/linux/man-pages/man1/pgrep.1.html",
+    "url": "https://man7.org/linux/man-pages/man1/pgrep.1.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "wait",
+    "source": "https://www.man7.org/linux/man-pages/man1/wait.1p.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/wait.1p.html",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "tutorial",
+    "source": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+    "url": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "these steps",
+    "source": "https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+    "url": "https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "specialized utility",
+    "source": "https://dotfiles.github.io/utilities/",
+    "url": "https://dotfiles.github.io/utilities/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "this",
+    "source": "https://hibbard.eu/install-ubuntu-virtual-box/",
+    "url": "https://hibbard.eu/install-ubuntu-virtual-box/",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "here",
+    "source": "https://www.ssh.com/ssh/agent",
+    "url": "https://www.ssh.com/ssh/agent",
+    "node": null
+  },
+  {
+    "lecture": "command-line-environment",
+    "label": "mosh",
+    "source": "https://mosh.org/",
+    "url": "https://mosh.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VS Code",
+    "source": "https://code.visualstudio.com/",
+    "url": "https://code.visualstudio.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "tmux",
+    "source": "https://github.com/tmux/tmux",
+    "url": "https://github.com/tmux/tmux",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim",
+    "source": "https://www.vim.org/",
+    "url": "https://www.vim.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Zsh",
+    "source": "https://www.zsh.org/",
+    "url": "https://www.zsh.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Ruff",
+    "source": "https://docs.astral.sh/ruff/",
+    "url": "https://docs.astral.sh/ruff/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Mypy",
+    "source": "https://mypy-lang.org/",
+    "url": "https://mypy-lang.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VS Code",
+    "source": "https://code.visualstudio.com/",
+    "url": "https://code.visualstudio.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Text editing and Vim",
+    "source": "#text-editing-and-vim",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#text-editing-and-vim",
+    "node": "Development - Text editing and Vim"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Code intelligence and language servers",
+    "source": "#code-intelligence-and-language-servers",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#code-intelligence-and-language-servers",
+    "node": "Development - Code intelligence and language servers"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "AI-powered development",
+    "source": "#ai-powered-development",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#ai-powered-development",
+    "node": "Development - AI-powered development"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Extensions and other IDE functionality",
+    "source": "#extensions-and-other-ide-functionality",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#extensions-and-other-ide-functionality",
+    "node": "Development - Extensions and other IDE functionality"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim",
+    "source": "https://www.vim.org/",
+    "url": "https://www.vim.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim",
+    "source": "https://www.vim.org/",
+    "url": "https://www.vim.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VSCodeVim",
+    "source": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim",
+    "url": "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "built-in support",
+    "source": "https://zsh.sourceforge.io/Guide/zshguide04.html",
+    "url": "https://zsh.sourceforge.io/Guide/zshguide04.html",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "built-in support",
+    "source": "https://code.claude.com/docs/en/interactive-mode#vim-editor-mode",
+    "url": "https://code.claude.com/docs/en/interactive-mode#vim-editor-mode",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "macOS instructions",
+    "source": "https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS",
+    "url": "https://vim.fandom.com/wiki/Map_caps_lock_to_escape_in_macOS",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "alternative mapping",
+    "source": "https://vim.fandom.com/wiki/Avoid_the_escape_key#Mappings",
+    "url": "https://vim.fandom.com/wiki/Avoid_the_escape_key#Mappings",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "fizz buzz",
+    "source": "https://en.wikipedia.org/wiki/Fizz_buzz",
+    "url": "https://en.wikipedia.org/wiki/Fizz_buzz",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim lecture",
+    "source": "/2020/editors/",
+    "url": "https://missing.csail.mit.edu/2020/editors/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim Adventures",
+    "source": "https://vim-adventures.com/",
+    "url": "https://vim-adventures.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim Tips Wiki",
+    "source": "https://vim.fandom.com/wiki/Vim_Tips_Wiki",
+    "url": "https://vim.fandom.com/wiki/Vim_Tips_Wiki",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim Advent Calendar",
+    "source": "https://vimways.org/2019/",
+    "url": "https://vimways.org/2019/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VimGolf",
+    "source": "https://www.vimgolf.com/",
+    "url": "https://www.vimgolf.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "code golf",
+    "source": "https://en.wikipedia.org/wiki/Code_golf",
+    "url": "https://en.wikipedia.org/wiki/Code_golf",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vi/Vim Stack Exchange",
+    "source": "https://vi.stackexchange.com/",
+    "url": "https://vi.stackexchange.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim Screencasts",
+    "source": "http://vimcasts.org/",
+    "url": "http://vimcasts.org/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Practical Vim",
+    "source": "https://pragprog.com/titles/dnvim2/",
+    "url": "https://pragprog.com/titles/dnvim2/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Language Server Protocol",
+    "source": "https://microsoft.github.io/language-server-protocol/",
+    "url": "https://microsoft.github.io/language-server-protocol/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Python extension for VS Code",
+    "source": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Pylance",
+    "source": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Go extension for VS Code",
+    "source": "https://marketplace.visualstudio.com/items?itemName=golang.go",
+    "url": "https://marketplace.visualstudio.com/items?itemName=golang.go",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "gopls",
+    "source": "https://go.dev/gopls/",
+    "url": "https://go.dev/gopls/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "lecture on code quality",
+    "source": "/2026/code-quality/",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/",
+    "node": "Quality"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Python environment",
+    "source": "https://code.visualstudio.com/docs/python/environments",
+    "url": "https://code.visualstudio.com/docs/python/environments",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "lecture on packaging and shipping code",
+    "source": "/2026/shipping-code/",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/",
+    "node": "Shipping"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "GitHub Copilot",
+    "source": "https://github.com/features/copilot/ai-code-editor",
+    "url": "https://github.com/features/copilot/ai-code-editor",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Codex model",
+    "source": "https://openai.com/index/openai-codex/",
+    "url": "https://openai.com/index/openai-codex/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "LLMs",
+    "source": "https://en.wikipedia.org/wiki/Large_language_model",
+    "url": "https://en.wikipedia.org/wiki/Large_language_model",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "prompted",
+    "source": "https://en.wikipedia.org/wiki/Prompt_engineering",
+    "url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Agentic Coding",
+    "source": "/2026/agentic-coding/",
+    "url": "https://missing.csail.mit.edu/2026/agentic-coding/",
+    "node": "Agents"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VS Code",
+    "source": "https://code.visualstudio.com/",
+    "url": "https://code.visualstudio.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "GitHub Copilot",
+    "source": "https://github.com/features/copilot/ai-code-editor",
+    "url": "https://github.com/features/copilot/ai-code-editor",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Cursor",
+    "source": "https://cursor.com/",
+    "url": "https://cursor.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "for free for students",
+    "source": "https://github.com/education/students",
+    "url": "https://github.com/education/students",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Vim Awesome",
+    "source": "https://vimawesome.com/",
+    "url": "https://vimawesome.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VS Code extensions sorted by popularity",
+    "source": "https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs",
+    "url": "https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Development containers",
+    "source": "https://containers.dev/",
+    "url": "https://containers.dev/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "supported by VS Code",
+    "source": "https://code.visualstudio.com/docs/devcontainers/containers",
+    "url": "https://code.visualstudio.com/docs/devcontainers/containers",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "lecture on packaging and shipping code",
+    "source": "/2026/shipping-code/",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/",
+    "node": "Shipping"
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Remote SSH plugin for VS Code",
+    "source": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "Live Share plugin for VS Code",
+    "source": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+    "url": "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "VimGolf",
+    "source": "https://www.vimgolf.com/",
+    "url": "https://www.vimgolf.com/",
+    "node": null
+  },
+  {
+    "lecture": "development-environment",
+    "label": "this one",
+    "source": "https://github.com/spf13/cobra",
+    "url": "https://github.com/spf13/cobra",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "gdb",
+    "source": "https://www.gnu.org/software/gdb/",
+    "url": "https://www.gnu.org/software/gdb/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "lldb",
+    "source": "https://lldb.llvm.org/",
+    "url": "https://lldb.llvm.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "rr",
+    "source": "https://rr-project.org/",
+    "url": "https://rr-project.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Warpspeed",
+    "source": "https://warpspeed.dev/",
+    "url": "https://warpspeed.dev/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "system calls",
+    "source": "https://en.wikipedia.org/wiki/System_call",
+    "url": "https://en.wikipedia.org/wiki/System_call",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "strace",
+    "source": "https://www.man7.org/linux/man-pages/man1/strace.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/strace.1.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "dtruss",
+    "source": "https://www.manpagez.com/man/1/dtruss/",
+    "url": "https://www.manpagez.com/man/1/dtruss/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "strace zine",
+    "source": "https://jvns.ca/strace-zine-unfolded.pdf",
+    "url": "https://jvns.ca/strace-zine-unfolded.pdf",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "eBPF",
+    "source": "https://ebpf.io/",
+    "url": "https://ebpf.io/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "bpftrace",
+    "source": "https://github.com/iovisor/bpftrace",
+    "url": "https://github.com/iovisor/bpftrace",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "bcc",
+    "source": "https://github.com/iovisor/bcc",
+    "url": "https://github.com/iovisor/bcc",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "many handy tools",
+    "source": "https://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html",
+    "url": "https://www.brendangregg.com/blog/2015-09-22/bcc-linux-4.3-tracing.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "tcpdump",
+    "source": "https://www.man7.org/linux/man-pages/man1/tcpdump.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/tcpdump.1.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Wireshark",
+    "source": "https://www.wireshark.org/",
+    "url": "https://www.wireshark.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "mitmproxy",
+    "source": "https://mitmproxy.org/",
+    "url": "https://mitmproxy.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Valgrind",
+    "source": "https://valgrind.org/",
+    "url": "https://valgrind.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "general AI coding capabilities",
+    "source": "/2026/development-environment/#ai-powered-development",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#ai-powered-development",
+    "node": "Development - AI-powered development"
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "premature optimization is the root of all evil",
+    "source": "https://wiki.c2.com/?PrematureOptimization",
+    "url": "https://wiki.c2.com/?PrematureOptimization",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "htop",
+    "source": "https://htop.dev/",
+    "url": "https://htop.dev/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "btop",
+    "source": "https://github.com/aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "iotop",
+    "source": "https://www.man7.org/linux/man-pages/man8/iotop.8.html",
+    "url": "https://www.man7.org/linux/man-pages/man8/iotop.8.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "free",
+    "source": "https://www.man7.org/linux/man-pages/man1/free.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/free.1.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "lsof",
+    "source": "https://www.man7.org/linux/man-pages/man8/lsof.8.html",
+    "url": "https://www.man7.org/linux/man-pages/man8/lsof.8.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "ss",
+    "source": "https://www.man7.org/linux/man-pages/man8/ss.8.html",
+    "url": "https://www.man7.org/linux/man-pages/man8/ss.8.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "nethogs",
+    "source": "https://github.com/raboof/nethogs",
+    "url": "https://github.com/raboof/nethogs",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "iftop",
+    "source": "https://pdw.ex-parrot.com/iftop/",
+    "url": "https://pdw.ex-parrot.com/iftop/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "in a tidy way",
+    "source": "https://vita.had.co.nz/papers/tidy-data.pdf",
+    "url": "https://vita.had.co.nz/papers/tidy-data.pdf",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "gnuplot",
+    "source": "http://www.gnuplot.info/",
+    "url": "http://www.gnuplot.info/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "matplotlib",
+    "source": "https://matplotlib.org/",
+    "url": "https://matplotlib.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "ggplot2",
+    "source": "https://ggplot2.tidyverse.org/",
+    "url": "https://ggplot2.tidyverse.org/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "perf",
+    "source": "https://www.man7.org/linux/man-pages/man1/perf.1.html",
+    "url": "https://www.man7.org/linux/man-pages/man1/perf.1.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Flame graphs",
+    "source": "https://www.brendangregg.com/flamegraphs.html",
+    "url": "https://www.brendangregg.com/flamegraphs.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "FlameGraph",
+    "source": "https://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg",
+    "url": "https://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Speedscope",
+    "source": "https://www.speedscope.app/",
+    "url": "https://www.speedscope.app/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Perfetto",
+    "source": "https://perfetto.dev/",
+    "url": "https://perfetto.dev/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "callgrind",
+    "source": "https://valgrind.org/docs/manual/cl-manual.html",
+    "url": "https://valgrind.org/docs/manual/cl-manual.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "cProfile",
+    "source": "https://docs.python.org/3/library/profile.html",
+    "url": "https://docs.python.org/3/library/profile.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "py-spy",
+    "source": "https://github.com/benfred/py-spy",
+    "url": "https://github.com/benfred/py-spy",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "go tool pprof",
+    "source": "https://pkg.go.dev/cmd/pprof",
+    "url": "https://pkg.go.dev/cmd/pprof",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "cargo-flamegraph",
+    "source": "https://github.com/flamegraph-rs/flamegraph",
+    "url": "https://github.com/flamegraph-rs/flamegraph",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "massif",
+    "source": "https://valgrind.org/docs/manual/ms-manual.html",
+    "url": "https://valgrind.org/docs/manual/ms-manual.html",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "memory-profiler",
+    "source": "https://pypi.org/project/memory-profiler/",
+    "url": "https://pypi.org/project/memory-profiler/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "hyperfine",
+    "source": "https://github.com/sharkdp/hyperfine",
+    "url": "https://github.com/sharkdp/hyperfine",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Firefox Profiler",
+    "source": "https://profiler.firefox.com/docs/",
+    "url": "https://profiler.firefox.com/docs/",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "Chrome DevTools",
+    "source": "https://developers.google.com/web/tools/chrome-devtools/rendering-tools",
+    "url": "https://developers.google.com/web/tools/chrome-devtools/rendering-tools",
+    "node": null
+  },
+  {
+    "lecture": "debugging-profiling",
+    "label": "rr",
+    "source": "https://rr-project.org/",
+    "url": "https://rr-project.org/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "XKCD comic",
+    "source": "https://xkcd.com/1597/",
+    "url": "https://xkcd.com/1597/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "SHA-1 hash",
+    "source": "https://en.wikipedia.org/wiki/SHA-1",
+    "url": "https://en.wikipedia.org/wiki/SHA-1",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "above",
+    "source": "#snapshots",
+    "url": "https://missing.csail.mit.edu/2026/version-control/#snapshots",
+    "node": "Git - Snapshots"
+  },
+  {
+    "lecture": "version-control",
+    "label": "Pro Git",
+    "source": "https://git-scm.com/book/en/v2",
+    "url": "https://git-scm.com/book/en/v2",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "good commit messages",
+    "source": "https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html",
+    "url": "https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "good commit messages",
+    "source": "https://chris.beams.io/posts/git-commit/",
+    "url": "https://chris.beams.io/posts/git-commit/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "highly customizable",
+    "source": "https://git-scm.com/docs/git-config",
+    "url": "https://git-scm.com/docs/git-config",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "specify",
+    "source": "https://git-scm.com/docs/gitignore",
+    "url": "https://git-scm.com/docs/gitignore",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "GUI clients",
+    "source": "https://git-scm.com/downloads/guis",
+    "url": "https://git-scm.com/downloads/guis",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "zsh",
+    "source": "https://github.com/olivierverdier/zsh-git-prompt",
+    "url": "https://github.com/olivierverdier/zsh-git-prompt",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "bash",
+    "source": "https://github.com/magicmonty/bash-git-prompt",
+    "url": "https://github.com/magicmonty/bash-git-prompt",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Oh My Zsh",
+    "source": "https://github.com/ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "fugitive.vim",
+    "source": "https://github.com/tpope/vim-fugitive",
+    "url": "https://github.com/tpope/vim-fugitive",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "many",
+    "source": "https://nvie.com/posts/a-successful-git-branching-model/",
+    "url": "https://nvie.com/posts/a-successful-git-branching-model/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "different",
+    "source": "https://www.endoflineblog.com/gitflow-considered-harmful",
+    "url": "https://www.endoflineblog.com/gitflow-considered-harmful",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "approaches",
+    "source": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+    "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "pull requests",
+    "source": "https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests",
+    "url": "https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "GitLab",
+    "source": "https://about.gitlab.com/",
+    "url": "https://about.gitlab.com/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "BitBucket",
+    "source": "https://bitbucket.org/",
+    "url": "https://bitbucket.org/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Pro Git",
+    "source": "https://git-scm.com/book/en/v2",
+    "url": "https://git-scm.com/book/en/v2",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Oh Shit, Git!?!",
+    "source": "https://ohshitgit.com/",
+    "url": "https://ohshitgit.com/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Git for Computer Scientists",
+    "source": "https://eagain.net/articles/git-for-computer-scientists/",
+    "url": "https://eagain.net/articles/git-for-computer-scientists/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Git from the Bottom Up",
+    "source": "https://jwiegley.github.io/git-from-the-bottom-up/",
+    "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "How to explain git in simple words",
+    "source": "https://smusamashah.github.io/blog/2017/10/14/explain-git-in-simple-words",
+    "url": "https://smusamashah.github.io/blog/2017/10/14/explain-git-in-simple-words",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Learn Git Branching",
+    "source": "https://learngitbranching.js.org/",
+    "url": "https://learngitbranching.js.org/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Pro Git",
+    "source": "https://git-scm.com/book/en/v2",
+    "url": "https://git-scm.com/book/en/v2",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "Learn Git Branching",
+    "source": "https://learngitbranching.js.org/",
+    "url": "https://learngitbranching.js.org/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "repository for the class website",
+    "source": "https://github.com/missing-semester/missing-semester",
+    "url": "https://github.com/missing-semester/missing-semester",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "this",
+    "source": "https://help.github.com/articles/removing-sensitive-data-from-a-repository/",
+    "url": "https://help.github.com/articles/removing-sensitive-data-from-a-repository/",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "editing",
+    "source": "https://git-scm.com/docs/git-config#Documentation/git-config.txt-alias",
+    "url": "https://git-scm.com/docs/git-config#Documentation/git-config.txt-alias",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "here",
+    "source": "https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases",
+    "url": "https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "repository for the class website",
+    "source": "https://github.com/missing-semester/missing-semester",
+    "url": "https://github.com/missing-semester/missing-semester",
+    "node": null
+  },
+  {
+    "lecture": "version-control",
+    "label": "this",
+    "source": "https://github.com/firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Dependencies & Environments",
+    "source": "#dependencies--environments",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#dependencies--environments",
+    "node": "Shipping - Dependencies & Environments"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Artifacts & Packaging",
+    "source": "#artifacts--packaging",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#artifacts--packaging",
+    "node": "Shipping - Artifacts & Packaging"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Releases & Versioning",
+    "source": "#releases--versioning",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#releases--versioning",
+    "node": "Shipping - Releases & Versioning"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Reproducibility",
+    "source": "#reproducibility",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#reproducibility",
+    "node": "Shipping - Reproducibility"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "VMs & Containers",
+    "source": "#vms--containers",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#vms--containers",
+    "node": "Shipping - VMs & Containers"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Configuration",
+    "source": "#configuration",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#configuration",
+    "node": "Shipping - Configuration"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Services & Orchestration",
+    "source": "#services--orchestration",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#services--orchestration",
+    "node": "Shipping - Services & Orchestration"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Publishing",
+    "source": "#publishing",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#publishing",
+    "node": "Shipping - Publishing"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "PyPI",
+    "source": "https://pypi.org/",
+    "url": "https://pypi.org/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "uv",
+    "source": "https://docs.astral.sh/uv/",
+    "url": "https://docs.astral.sh/uv/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "hatch",
+    "source": "https://hatch.pypa.io/",
+    "url": "https://hatch.pypa.io/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "poetry",
+    "source": "https://python-poetry.org/",
+    "url": "https://python-poetry.org/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "PEP 517",
+    "source": "https://peps.python.org/pep-0517/",
+    "url": "https://peps.python.org/pep-0517/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "PEP 621",
+    "source": "https://peps.python.org/pep-0621/",
+    "url": "https://peps.python.org/pep-0621/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "ripgrep's releases page",
+    "source": "https://github.com/BurntSushi/ripgrep/releases",
+    "url": "https://github.com/BurntSushi/ripgrep/releases",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Semantic Versioning",
+    "source": "https://semver.org/",
+    "url": "https://semver.org/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "PEP 440",
+    "source": "https://peps.python.org/pep-0440/",
+    "url": "https://peps.python.org/pep-0440/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Nix",
+    "source": "https://nixos.org/",
+    "url": "https://nixos.org/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Bazel",
+    "source": "https://bazel.build/",
+    "url": "https://bazel.build/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Code Quality and CI",
+    "source": "/2026/code-quality/",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/",
+    "node": "Quality"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Dependabot",
+    "source": "https://github.com/dependabot",
+    "url": "https://github.com/dependabot",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Docker",
+    "source": "https://www.docker.com/",
+    "url": "https://www.docker.com/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "nix flakes",
+    "source": "https://serokell.io/blog/practical-nix-flakes",
+    "url": "https://serokell.io/blog/practical-nix-flakes",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "command line environment",
+    "source": "/2026/command-line-environment/",
+    "url": "https://missing.csail.mit.edu/2026/command-line-environment/",
+    "node": "CLI"
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Redis",
+    "source": "https://redis.io/",
+    "url": "https://redis.io/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Memcached",
+    "source": "https://memcached.org/",
+    "url": "https://memcached.org/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Docker Compose",
+    "source": "https://docs.docker.com/compose/",
+    "url": "https://docs.docker.com/compose/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Ubuntu's package archive",
+    "source": "http://archive.ubuntu.com/ubuntu/pool/main/",
+    "url": "http://archive.ubuntu.com/ubuntu/pool/main/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Python Package Index (PyPI)",
+    "source": "https://pypi.org",
+    "url": "https://pypi.org",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "TestPyPI",
+    "source": "https://test.pypi.org",
+    "url": "https://test.pypi.org",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "crates.io",
+    "source": "https://crates.io",
+    "url": "https://crates.io",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "npm",
+    "source": "https://www.npmjs.com",
+    "url": "https://www.npmjs.com",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "RubyGems",
+    "source": "https://rubygems.org",
+    "url": "https://rubygems.org",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "Docker Hub",
+    "source": "https://hub.docker.com",
+    "url": "https://hub.docker.com",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "GitHub Pages",
+    "source": "https://pages.github.com/",
+    "url": "https://pages.github.com/",
+    "node": null
+  },
+  {
+    "lecture": "shipping-code",
+    "label": "GitHub Pages",
+    "source": "https://docs.github.com/en/pages/quickstart",
+    "url": "https://docs.github.com/en/pages/quickstart",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Development Environment and Tools",
+    "source": "/2026/development-environment/",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/",
+    "node": "Development"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "AI-powered development",
+    "source": "/2026/development-environment/#ai-powered-development",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#ai-powered-development",
+    "node": "Development - AI-powered development"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "large language models (LLMs)",
+    "source": "https://en.wikipedia.org/wiki/Large_language_model",
+    "url": "https://en.wikipedia.org/wiki/Large_language_model",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "implemented in 200 lines of code",
+    "source": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+    "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "implement",
+    "source": "https://github.com/missing-semester/missing-semester/pull/345",
+    "url": "https://github.com/missing-semester/missing-semester/pull/345",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "f552b55",
+    "source": "https://github.com/missing-semester/missing-semester/commit/f552b5523462b22b8893a8404d2110c4e59613dd",
+    "url": "https://github.com/missing-semester/missing-semester/commit/f552b5523462b22b8893a8404d2110c4e59613dd",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "f1e1c41",
+    "source": "https://github.com/missing-semester/missing-semester/commit/f1e1c417adba6b4149f7eef91ff5624de40dc637",
+    "url": "https://github.com/missing-semester/missing-semester/commit/f1e1c417adba6b4149f7eef91ff5624de40dc637",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "code intelligence",
+    "source": "/2026/development-environment/#code-intelligence-and-language-servers",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#code-intelligence-and-language-servers",
+    "node": "Development - Code intelligence and language servers"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "split",
+    "source": "https://github.com/missing-semester/missing-semester/pull/344",
+    "url": "https://github.com/missing-semester/missing-semester/pull/344",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "GitHub CLI",
+    "source": "https://cli.github.com/",
+    "url": "https://cli.github.com/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Here is an example",
+    "source": "https://github.com/cleanlab/office-presence-dashboard",
+    "url": "https://github.com/cleanlab/office-presence-dashboard",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "subsumed",
+    "source": "https://developers.openai.com/codex/custom-prompts",
+    "url": "https://developers.openai.com/codex/custom-prompts",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "skills",
+    "source": "https://code.claude.com/docs/en/skills",
+    "url": "https://code.claude.com/docs/en/skills",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "git worktrees",
+    "source": "https://git-scm.com/docs/git-worktree",
+    "url": "https://git-scm.com/docs/git-worktree",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "version control",
+    "source": "/2026/version-control/",
+    "url": "https://missing.csail.mit.edu/2026/version-control/",
+    "node": "Git"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Notion MCP server",
+    "source": "https://github.com/makenotion/notion-mcp-server",
+    "url": "https://github.com/makenotion/notion-mcp-server",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Pulse",
+    "source": "https://www.pulsemcp.com/servers",
+    "url": "https://www.pulsemcp.com/servers",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Glama",
+    "source": "https://glama.ai/mcp/servers",
+    "url": "https://glama.ai/mcp/servers",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "above",
+    "source": "#how-ai-models-and-agents-work",
+    "url": "https://missing.csail.mit.edu/2026/agentic-coding/#how-ai-models-and-agents-work",
+    "node": "Agents - How AI models and agents work"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "standard",
+    "source": "https://llmstxt.org/",
+    "url": "https://llmstxt.org/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "cursor.com/llms.txt",
+    "source": "https://cursor.com/llms.txt",
+    "url": "https://cursor.com/llms.txt",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "ai.pydantic.dev/llms.txt",
+    "source": "https://ai.pydantic.dev/llms.txt",
+    "url": "https://ai.pydantic.dev/llms.txt",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "apify.com/llms.txt",
+    "source": "https://apify.com/llms.txt",
+    "url": "https://apify.com/llms.txt",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "AGENTS.md",
+    "source": "https://agents.md/",
+    "url": "https://agents.md/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "here",
+    "source": "https://github.com/pydantic/pydantic-ai/blob/main/CLAUDE.md",
+    "url": "https://github.com/pydantic/pydantic-ai/blob/main/CLAUDE.md",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "development environment lecture",
+    "source": "/2026/development-environment/",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/",
+    "node": "Development"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Claude Code",
+    "source": "https://www.claude.com/product/claude-code",
+    "url": "https://www.claude.com/product/claude-code",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Codex",
+    "source": "https://openai.com/codex/",
+    "url": "https://openai.com/codex/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "opencode",
+    "source": "https://github.com/anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Advent of Code",
+    "source": "https://adventofcode.com/",
+    "url": "https://adventofcode.com/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "LeetCode",
+    "source": "https://leetcode.com/",
+    "url": "https://leetcode.com/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "opencode",
+    "source": "https://github.com/anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "skill in Claude Code",
+    "source": "https://code.claude.com/docs/en/skills",
+    "url": "https://code.claude.com/docs/en/skills",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "skill in Codex",
+    "source": "https://developers.openai.com/codex/skills/",
+    "url": "https://developers.openai.com/codex/skills/",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "subagent in Claude Code",
+    "source": "https://code.claude.com/docs/en/sub-agents",
+    "url": "https://code.claude.com/docs/en/sub-agents",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Code Quality lecture",
+    "source": "/2026/code-quality/",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/",
+    "node": "Quality"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "first lecture",
+    "source": "/2026/course-shell/",
+    "url": "https://missing.csail.mit.edu/2026/course-shell/",
+    "node": "Shell"
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Claude Code devcontainers",
+    "source": "https://code.claude.com/docs/en/devcontainer",
+    "url": "https://code.claude.com/docs/en/devcontainer",
+    "node": null
+  },
+  {
+    "lecture": "agentic-coding",
+    "label": "Docker Sandboxes / Claude Code",
+    "source": "https://docs.docker.com/ai/sandboxes/agents/claude-code/",
+    "url": "https://docs.docker.com/ai/sandboxes/agents/claude-code/",
+    "node": null
+  },
+  {
+    "lecture": "beyond-code",
+    "label": "choosealicense.com",
+    "source": "https://choosealicense.com/",
+    "url": "https://choosealicense.com/",
+    "node": null
+  },
+  {
+    "lecture": "beyond-code",
+    "label": "How to ask good questions",
+    "source": "https://jvns.ca/blog/good-questions/",
+    "url": "https://jvns.ca/blog/good-questions/",
+    "node": null
+  },
+  {
+    "lecture": "beyond-code",
+    "label": "How to get useful answers to your questions",
+    "source": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+    "url": "https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/",
+    "node": null
+  },
+  {
+    "lecture": "beyond-code",
+    "label": "agentic coding lecture",
+    "source": "/2026/agentic-coding/",
+    "url": "https://missing.csail.mit.edu/2026/agentic-coding/",
+    "node": "Agents"
+  },
+  {
+    "lecture": "beyond-code",
+    "label": "Redis",
+    "source": "https://github.com/redis/redis",
+    "url": "https://github.com/redis/redis",
+    "node": null
+  },
+  {
+    "lecture": "beyond-code",
+    "label": "curl",
+    "source": "https://github.com/curl/curl",
+    "url": "https://github.com/curl/curl",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Formatting",
+    "source": "#formatting",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#formatting",
+    "node": "Quality - Formatting"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Linting",
+    "source": "#linting",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#linting",
+    "node": "Quality - Linting"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Testing",
+    "source": "#testing",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#testing",
+    "node": "Quality - Testing"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Pre-commit hooks",
+    "source": "#pre-commit-hooks",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#pre-commit-hooks",
+    "node": "Quality - Pre-commit hooks"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Continuous integration",
+    "source": "#continuous-integration",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#continuous-integration",
+    "node": "Quality - Continuous integration"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Command runners",
+    "source": "#command-runners",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#command-runners",
+    "node": "Quality - Command runners"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "regular expressions",
+    "source": "#regular-expressions",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#regular-expressions",
+    "node": "Quality - Regular expressions"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Ruff",
+    "source": "https://docs.astral.sh/ruff/",
+    "url": "https://docs.astral.sh/ruff/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Prettier",
+    "source": "https://prettier.io/",
+    "url": "https://prettier.io/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "highly configurable",
+    "source": "https://prettier.io/docs/configuration",
+    "url": "https://prettier.io/docs/configuration",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "version control",
+    "source": "/2026/version-control/",
+    "url": "https://missing.csail.mit.edu/2026/version-control/",
+    "node": "Git"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Black",
+    "source": "https://github.com/psf/black",
+    "url": "https://github.com/psf/black",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "gofmt",
+    "source": "https://pkg.go.dev/cmd/gofmt",
+    "url": "https://pkg.go.dev/cmd/gofmt",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "bikeshedding",
+    "source": "https://en.wikipedia.org/wiki/Law_of_triviality",
+    "url": "https://en.wikipedia.org/wiki/Law_of_triviality",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "IDE integration",
+    "source": "/2026/development-environment/#code-intelligence-and-language-servers",
+    "url": "https://missing.csail.mit.edu/2026/development-environment/#code-intelligence-and-language-servers",
+    "node": "Development - Code intelligence and language servers"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "EditorConfig",
+    "source": "https://editorconfig.org/",
+    "url": "https://editorconfig.org/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "SIM102",
+    "source": "https://docs.astral.sh/ruff/rules/collapsible-if/",
+    "url": "https://docs.astral.sh/ruff/rules/collapsible-if/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Ruff",
+    "source": "https://docs.astral.sh/ruff/",
+    "url": "https://docs.astral.sh/ruff/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "semgrep",
+    "source": "https://github.com/semgrep/semgrep",
+    "url": "https://github.com/semgrep/semgrep",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "QuickCheck",
+    "source": "https://hackage.haskell.org/package/QuickCheck",
+    "url": "https://hackage.haskell.org/package/QuickCheck",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Hypothesis",
+    "source": "https://hypothesis.readthedocs.io/",
+    "url": "https://hypothesis.readthedocs.io/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Codecov",
+    "source": "https://app.codecov.io",
+    "url": "https://app.codecov.io",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "hooks",
+    "source": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+    "url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "pre-commit",
+    "source": "https://pre-commit.com/",
+    "url": "https://pre-commit.com/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "GitHub Actions",
+    "source": "https://github.com/features/actions",
+    "url": "https://github.com/features/actions",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "semver-compatible",
+    "source": "/2026/shipping-code/#releases--versioning",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/#releases--versioning",
+    "node": "Shipping - Releases & Versioning"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "status badges",
+    "source": "https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge",
+    "url": "https://docs.github.com/en/actions/how-tos/monitor-workflows/add-a-status-badge",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Build Status",
+    "source": "https://github.com/missing-semester/missing-semester/actions/workflows/build.yml",
+    "url": "https://github.com/missing-semester/missing-semester/actions/workflows/build.yml",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Links Status",
+    "source": "https://github.com/missing-semester/missing-semester/actions/workflows/links.yml",
+    "url": "https://github.com/missing-semester/missing-semester/actions/workflows/links.yml",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "links checker",
+    "source": "https://github.com/missing-semester/missing-semester/blob/master/.github/workflows/links.yml",
+    "url": "https://github.com/missing-semester/missing-semester/blob/master/.github/workflows/links.yml",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "proof-html",
+    "source": "https://github.com/anishathalye/proof-html",
+    "url": "https://github.com/anishathalye/proof-html",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "artifacts",
+    "source": "/2026/shipping-code/",
+    "url": "https://missing.csail.mit.edu/2026/shipping-code/",
+    "node": "Shipping"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "just",
+    "source": "https://github.com/casey/just",
+    "url": "https://github.com/casey/just",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "npm",
+    "source": "https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager",
+    "url": "https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Hatch",
+    "source": "https://hatch.pypa.io/",
+    "url": "https://hatch.pypa.io/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "ag",
+    "source": "https://github.com/ggreer/the_silver_searcher",
+    "url": "https://github.com/ggreer/the_silver_searcher",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "go test",
+    "source": "https://pkg.go.dev/cmd/go#hdr-Test_packages",
+    "url": "https://pkg.go.dev/cmd/go#hdr-Test_packages",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Python regex syntax",
+    "source": "https://docs.python.org/3/library/re.html",
+    "url": "https://docs.python.org/3/library/re.html",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "regex101",
+    "source": "https://regex101.com/",
+    "url": "https://regex101.com/",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "exists",
+    "source": "https://pdw.ex-parrot.com/Mail-RFC822-Address.html",
+    "url": "https://pdw.ex-parrot.com/Mail-RFC822-Address.html",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "this documentation",
+    "source": "https://docs.python.org/3/library/re.html#regular-expression-syntax",
+    "url": "https://docs.python.org/3/library/re.html#regular-expression-syntax",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Regular languages",
+    "source": "https://en.wikipedia.org/wiki/Regular_language",
+    "url": "https://en.wikipedia.org/wiki/Regular_language",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "not possible",
+    "source": "https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages",
+    "url": "https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "pyparsing",
+    "source": "https://github.com/pyparsing/pyparsing",
+    "url": "https://github.com/pyparsing/pyparsing",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "PEG",
+    "source": "https://en.wikipedia.org/wiki/Parsing_expression_grammar",
+    "url": "https://en.wikipedia.org/wiki/Parsing_expression_grammar",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "AI agent",
+    "source": "/2026/agentic-coding/",
+    "url": "https://missing.csail.mit.edu/2026/agentic-coding/",
+    "node": "Agents"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "AI agent",
+    "source": "/2026/agentic-coding/",
+    "url": "https://missing.csail.mit.edu/2026/agentic-coding/",
+    "node": "Agents"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "regex pattern",
+    "source": "#regular-expressions",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#regular-expressions",
+    "node": "Quality - Regular expressions"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "command-line tool",
+    "source": "/2026/course-shell/",
+    "url": "https://missing.csail.mit.edu/2026/course-shell/",
+    "node": "Shell"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "semgrep",
+    "source": "#linting",
+    "url": "https://missing.csail.mit.edu/2026/code-quality/#linting",
+    "node": "Quality - Linting"
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Markdown bullet markers",
+    "source": "https://spec.commonmark.org/0.31.2/#bullet-list-marker",
+    "url": "https://spec.commonmark.org/0.31.2/#bullet-list-marker",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "these lecture notes",
+    "source": "https://raw.githubusercontent.com/missing-semester/missing-semester/refs/heads/master/_2026/code-quality.md",
+    "url": "https://raw.githubusercontent.com/missing-semester/missing-semester/refs/heads/master/_2026/code-quality.md",
+    "node": null
+  },
+  {
+    "lecture": "code-quality",
+    "label": "Python regex docs",
+    "source": "https://docs.python.org/3/library/re.html",
+    "url": "https://docs.python.org/3/library/re.html",
+    "node": null
+  }
+]
